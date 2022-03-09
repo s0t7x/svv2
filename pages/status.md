@@ -10,5 +10,10 @@ Project | VirusTotal.com | VAC | EAC | VANGUARD | RICOCHET | Comment
 -|-|-|-|-|-|-
 KeMM | 0 / 68 ✅ | ✅ | ✅ | ⚠ unknown㊙ | ⚠ unknown㊙  | ⚠ archived
 Militades | 13 / 68 🆗 | ✅ | ✅ | ✅ | ✅  | 
-vaxheim | 3 / 68 🆗 | 🆗 | 🆗 | 🆗 | 🆗 | no protection
-eldenDing | 0 / 68 ✅ | 🆗 | ✅ | 🆗 | 🆗 | public bypass exists
+ArchAngel | 2 / 68 🆗 | ✅ | ✅ | ✅ | ⚠ unknown㊙  | 
+vaxheim | 3 / 69 🆗 | 🆗 | 🆗 | 🆗 | 🆗 | no protection
+eldenDing | 0 / 69 ✅ | 🆗 | ✅ | 🆗 | 🆗 | public bypass exists
+**AIO Package** |  |   |   |   |   |  
+Apopyllus | 18 / 67 ✅ | ✅ | ✅ | ✅ | ⚠ unknown㊙ | ⚠ archived
+SUPERVISORA | 42 / 59 ❌ | ✅ | ❌ | ❌ | ⚠ unknown㊙ | ⚠ deprecated
+SUPERVISORAv2 | 0 / 68 ✅ | ✅ | ✅ | ✅ | ✅ | 
